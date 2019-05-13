@@ -1,0 +1,22 @@
+[2019-05-13 01:13:34.790] [exthost] [info] extension host started
+[2019-05-13 01:13:34.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-05-13 01:13:34.819] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-05-13 01:13:34.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:34.934] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-05-13 01:13:34.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:34.940] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-05-13 01:13:34.971] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:34.971] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/git/dist/main
+[2019-05-13 01:13:35.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:35.225] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-05-13 01:13:35.233] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:35.233] [exthost] [info] ExtensionService#loadCommonJSModule /home/serge/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2019-05-13 01:13:35.542] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-05-13 01:13:35.542] [exthost] [info] ExtensionService#loadCommonJSModule /home/serge/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-05-13 01:13:41.680] [exthost] [info] eager extensions activated
+[2019-05-13 02:54:45.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-13 02:54:45.542] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-05-13 02:54:45.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-13 02:54:45.584] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-05-13 02:54:45.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-05-13 02:54:45.734] [exthost] [info] ExtensionService#loadCommonJSModule /snap/code/6/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
