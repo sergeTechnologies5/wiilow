@@ -12,7 +12,7 @@ class db {
 		$this->conn = false;
 		$this->host = 'localhost'; //hostname
 		$this->user = 'root'; //username
-		$this->password = '1conl1v1ng'; //password
+		$this->password = ''; //password
 		$this->baseName = 'willow'; //name of your database
 		$this->port = '3306';
 		$this->debug = true;
